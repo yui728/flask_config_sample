@@ -1,0 +1,6 @@
+*.code-workspace
+Lib/*
+Scripts/*
+pyvenv.cfg
+.vscode/*
+*/__pycache__/*
